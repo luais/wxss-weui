@@ -1,0 +1,4 @@
+/* pages/index/article/article.wxss */
+.page{
+  background-color: #fff
+}

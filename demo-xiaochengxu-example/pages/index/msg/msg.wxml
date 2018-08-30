@@ -1,0 +1,17 @@
+<!--pages/index/msg/msg.wxml-->
+<text>pages/index/msg/msg.wxml</text>
+<view class='page'>
+  <view class='page_hd'> 
+    <view class='page__title'>msg</view>
+    <view class='page_desc'>message</view>
+  </view>
+
+
+  <view class='page__bd'>
+    <view class='weui-btn-area'>
+      <button class='weui-btn' type='default' bindtap='openSucess'>成功提示页</button>
+      <button class='weui-btn' type='default' bindtap='openFail'>失败提示也</button>
+    </view>
+  </view>
+</view>
+

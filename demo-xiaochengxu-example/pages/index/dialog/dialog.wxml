@@ -1,0 +1,17 @@
+<!--pages/index/dialog/dialog.wxml-->
+<text>pages/index/dialog/dialog.wxml</text>
+<view class='page'>
+  <view class='page__hd'>
+    <view class='page__title'>Dialog</view>
+    <view class='page__desc'>对话框</view>
+  </view>
+
+
+  <view class='page__bd'>
+    <view class='weui-btn-area'>
+      <button class='weui-btn' type='default' bindtap='openConfirm'>confirm dialog</button>
+      <button class='weui-btn' type='default' bindtap='openAlert'>alert dialog</button>
+    </view>
+  </view>
+</view>
+
